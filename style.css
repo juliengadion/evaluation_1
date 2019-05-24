@@ -1,0 +1,103 @@
+html {
+    background-color: rgb(32, 30, 30);
+    width: 80%;
+    float: center;
+}
+
+body {
+  background-color: rgb(252, 252, 252);
+  width: 80%;
+}
+
+.tittle {
+  text-align: left;
+  text-align: left;
+  
+}
+
+h1 {
+  text-align: center;
+  float: left;
+  margin-left: 4em;
+}
+
+
+
+h2 {
+color: rgb(255, 254, 254);
+text-align: center;
+background-color: rgb(19, 161, 226);
+padding-top: 2em;
+padding-bottom: 2em;
+}
+
+h3 {
+  font-size: 2em;
+  color: rgb(255, 254, 254);
+  padding-top: 2em;
+}
+
+h4 {
+  font-size: 2em;
+  color: rgb(255, 254, 254);
+}
+
+.test {
+  background-color: blueviolet;
+}
+
+.button {
+  background-color: chartreuse;
+}
+
+.heyP {
+  margin-left: 2em;
+}
+
+.hey {
+  color:rgb(19, 161, 226);
+}
+
+.blue {
+  font-size: 1em;
+  color: rgb(255, 254, 254);
+  background-color: rgb(17, 147, 207);
+  position: relative;
+  text-align:center;
+  margin:20px auto;
+  width:100%;
+  max-width:100%;
+  height:1500px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: rgb(59, 49, 49);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(168, 75, 75);
+}
+
+#conteneur
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
